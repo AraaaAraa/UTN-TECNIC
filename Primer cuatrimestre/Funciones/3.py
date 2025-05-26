@@ -2,6 +2,7 @@
 
 def texto (ingreso):
     print(ingreso)
+    return ingreso
 
 ingreso = str(input("Ingrese su texto: "))
 
