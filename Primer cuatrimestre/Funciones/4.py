@@ -3,6 +3,7 @@
 def triangulo (base, altura):
     calculo = base * altura
     print (calculo)
+    return calculo
 
 base = int(input("Ingrese la base del rectangulo: "))
 altura = int(input("Ingrese la altura del rectangulo: "))
