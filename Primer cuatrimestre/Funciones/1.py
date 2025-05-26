@@ -2,6 +2,7 @@
 
 def numero (ingreso):
     print(ingreso)
+    return ingreso
 
 
 ingreso = int(input("Ingrese un numero: "))
